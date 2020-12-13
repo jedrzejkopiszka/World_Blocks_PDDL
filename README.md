@@ -1,4 +1,4 @@
-# World_Blocks_PDDL
+# World Blocks PDDL - automated planning
 In World of Blocks schedule blocks' moves so that it reaches the desired arrangement.
 
 ## Project description
