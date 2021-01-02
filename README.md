@@ -1,5 +1,5 @@
 # World Blocks PDDL - automated planning
-In World of Blocks schedule blocks' moves so that it reaches the desired .
+In World of Blocks schedule blocks' moves so that it reaches the desired arrangement.
 
 ## Project description
 Having the initial arrangement of [blocks](https://en.wikipedia.org/wiki/Blocks_world) on the board and specified "goal" state use automated planning to generate schedule of movements. 
